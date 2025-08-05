@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi there, I’m Jaya Mukherjee
 
-<!--
-**jayamukh/jayamukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Backend Engineer | 5+ years of experience
 
-Here are some ideas to get you started:
+- ☕ Java | Spring Boot | Microservices | AWS | CI/CD
+- 📍 Based in Los Angeles | Open to collaboration & learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech I Love Working With
+
+- **Languages/Frameworks:** Java 17+, Spring Boot, REST APIs
+- **Cloud & DevOps:** AWS (ECS, S3, Lambda), Docker, Kubernetes, GitHub Actions, CI/CD pipelines
+- **Monitoring & Security:** Splunk, OAuth2/JWT
+- **Programming:** Functional Programming (Streams/Lambdas)
+- **Architecture:** Event-driven, clean code, backend optimization
+
+---
+
+### 🚀 Projects & Contributions
+
+- 🔭 [**AppDynamics Observability Platform**](https://www.gartner.com/reviews/market/observability-platforms/vendor/cisco-systems-splunk/product/appdynamics--apm)
+- ⚙️ Internal tools for log processing, AWS S3 integration, and performance monitoring
+- 📦 Building clean, scalable microservices for enterprise environments
+
+---
+
+### 🏆 Certifications & Achievements
+
+- ✅ Master’s in Computer Science – CSU Sacramento
+- ✅ AWS Certified Cloud Practitioner
+- ✅ Multiple performance awards during my time at Cisco
+- ✅ Mentored junior engineers, led peer code reviews, and promoted backend best practices
+
+---
+
+### 🎯 Currently Learning
+
+- Reactive programming with WebFlux
+- Advanced system design
+- Exploring frontend with React (just for fun!)
+
+---
+
+### 🌱 A Bit About Me
+
+- ☕ Strong coffee + clean code = happy Jaya
+- 🧩 I love breaking down complex backend problems into elegant, testable solutions
+- 🎙️ I enjoy programming, and sharing what I learn along the way
+- 🧠 Back on the daily LeetCode grind
+- 🌍 Always curious about new tools, backend patterns, and how great systems scale
+
+---
+
+### 🔗 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jayamukherjee)
+- [GitHub](https://github.com/jayamukh)
