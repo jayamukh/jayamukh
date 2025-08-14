@@ -19,18 +19,21 @@
 
 ### 🚀 Projects & Contributions
 
-- 🔭 [**AppDynamics Observability Platform**](https://www.gartner.com/reviews/market/observability-platforms/vendor/cisco-systems-splunk/product/appdynamics--apm)
+- 🔭 [**AppDynamics Observability Platform**](https://www.gartner.com/reviews/market/observability-platforms/vendor/cisco-systems-splunk/product/appdynamics--apm) - Built and optimized backend microservices supporting enterprise-scale observability
 - ⚙️ Internal tools for log processing, AWS S3 integration, and performance monitoring
-- 📦 Building clean, scalable microservices for enterprise environments
+- 📦 Designed clean, scalable microservices for high-traffic enterprise environments
 
 ---
 
 ### 🏆 Certifications & Achievements
 
-- ✅ Master’s in Computer Science – CSU Sacramento
-- ✅ AWS Certified Cloud Practitioner
-- ✅ Multiple performance awards during my time at Cisco
-- ✅ Mentored junior engineers, led peer code reviews, and promoted backend best practices
+- 🎓 Master’s in Computer Science – CSU Sacramento
+
+- ☁️ AWS Certified Cloud Practitioner
+
+- 🏅 Multiple performance awards at Cisco
+
+- 🤝 Mentored junior engineers, led peer code reviews, and promoted backend best practices
 
 ---
 
