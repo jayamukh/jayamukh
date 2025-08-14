@@ -3,7 +3,7 @@
 ## 💻 Backend Engineer | 5+ years of experience
 
 - ☕ Java | Spring Boot | Microservices | AWS | CI/CD
-- 📍 Based in Los Angeles | Open to collaboration & learning
+- 📍 Based in Los Angeles | Building, learning, and open to exploring impactful software engineering opportunities
 
 ---
 
